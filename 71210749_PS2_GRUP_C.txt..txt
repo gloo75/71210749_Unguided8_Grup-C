@@ -1,0 +1,5 @@
+2. Ember yang akan terisi penuh terlebih dahulu adalah ember B :
+Karena air hujan yang turun dan masuk kedalam rumah, dan masuk menlalui saluran dan akan menuju ember A tertutup pada bagian bawahnya.
+Selanjutnya pada saluran yang menuju ke ember C juga tertutup pada bagian tangki ke 2, begitu juga pada saluran menuju pada ember D
+juga tertutup pada bagian tangki ke 3 yang paling bawah, dan dan saluran yang terbuka adalah hanhya saluran yang menuju ember B,
+oleh sebab itu  ember yang akan terisi penuh adalah ember B.
